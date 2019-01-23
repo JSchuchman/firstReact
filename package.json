@@ -1,0 +1,23 @@
+{
+  "name": "firstreact",
+  "version": "1.0.0",
+  "description": "My first react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSchuchman/firstReact.git"
+  },
+  "author": "Jonathan Schuchman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSchuchman/firstReact/issues"
+  },
+  "homepage": "https://github.com/JSchuchman/firstReact#readme",
+  "devDependencies": {
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1"
+  }
+}
